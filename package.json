@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "cloudinary": "^2.7.0",
-    "firebase": "^12.2.1"
+    "firebase": "^12.2.1",
+    "mongodb": "^7.0.0"
   }
 }
